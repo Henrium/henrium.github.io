@@ -296,6 +296,7 @@ GEM
     unf_ext (0.0.8-x64-mingw32)
     unicode-display_width (1.8.0)
     unicode_utils (1.4.0)
+    wdm (0.1.1)
     webrick (1.7.0)
     zeitwerk (2.5.4)
 
@@ -312,7 +313,8 @@ DEPENDENCIES
   jekyll-twitter-plugin
   jemoji
   unicode_utils
+  wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH
-   2.3.7
+   2.2.23
