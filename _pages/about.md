@@ -24,18 +24,18 @@ Before starting graduate school, I earned my BS in Materials Science and Compute
 
 <div class="education">
 <h2>Education</h2>
-<img class="eduimg" src="assets/img/nu_logo.webp"/>
+<img class="eduimg" src="nu_logo.webp"/>
 
 
 <p class="edutext"><b> Northwestern University </b><br> PhD, Mechanical Engineering, 2020–2025 <br>Research Intern, 2019 </p>
 
 
-<img class="eduimg" src="assets/img/sjtu_logo.webp"/>
+<img class="eduimg" src="sjtu_logo.webp"/>
 
 <p class="edutext"><b> Shanghai Jiao Tong University </b><br> BS, Materials Science & Engineering, 2016–2020<br>BS, Computer Science, 2017–2020 </p>
 
 
-<img class="eduimg" src="assets/img/ox_logo.webp">
+<img class="eduimg" src="ox_logo.webp">
 <p class="edutext"><b> University of Oxford </b><br> Visiting Scholar, Department of Materials, 2018 </p>
 
 </div>
