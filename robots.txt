@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://henrium.github.io/sitemap.xml
+Sitemap: henrium.github.io/sitemap.xml
