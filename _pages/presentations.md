@@ -28,31 +28,31 @@ nav_order: 3
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Mar, 2024</th>
+      <td>Mar, 2024</td>
       <td> MolSets: Molecular graph deep sets learning for mixture property modeling <a href="/assets/pdf/APS_2024.pdf">[Slides]</a> </td>
       <td><a href="https://march.aps.org/"> APS </a>March Meeting</td>
       <td>Minneapolis, MN, USA</td>
     </tr>
     <tr>
-      <th scope="row">Sep, 2023</th>
+      <td>Sep, 2023</td>
       <td> Mitigating bias in materials data</td>
       <td>SRC <a href="https://www.src.org/calendar/e006829/"> TechCon </a></td>
       <td>Austin, TX, USA</td>
     </tr>
     <tr>
-      <th scope="row">Jul, 2023</th>
+      <td>Jul, 2023</td>
       <td> ET-AL: Entropy-targeted active learning for materials data bias mitigation </td>
       <td>NIST <a href="https://www.nist.gov/news-events/events/2023/07/artificial-intelligence-materials-science-aims-workshop"> AIMS </a> Workshop</td>
       <td>Online</td>
     </tr>
     <tr>
-      <th scope="row">Apr, 2023</th>
+      <td>Apr, 2023</td>
       <td> ET-AL: Entropy-targeted active learning for materials data bias mitigation <a href="/assets/pdf/MRS_2023.pdf">[Slides]</a> </td>
       <td><a href="https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting">MRS</a> Spring Meeting</td>
       <td>San Francisco, CA, USA</td>
     </tr>
     <tr>
-      <th scope="row">Mar, 2023</th>
+      <td>Mar, 2023</td>
       <td> Adaptive discovery and mixed-variable optimization for next-generation synthesizable microelectronic materials </td>
       <td><a href="https://www.tms.org/AnnualMeeting/TMS2023">TMS</a> Annual Meeting</td>
       <td>San Diego, CA, USA</td>
@@ -81,31 +81,31 @@ nav_order: 3
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Dec, 2023</th>
+      <td>Dec, 2023</td>
       <td>Mitigating bias in scientific data: a materials science case study <a href="https://openreview.net/forum?id=PfpbWuC0Yk">[Paper]</a> <a href="https://nips.cc/virtual/2023/75754">[Poster]</a></td>
       <td>NeurIPS <a href="https://ai4sciencecommunity.github.io/neurips23.html">AI for Science</a> Workshop</td>
       <td>New Orleans, LA, USA</td>
     </tr>
     <tr>
-      <th scope="row">Dec, 2023</th>
+      <td>Dec, 2023</td>
       <td>Automated diffraction pattern analysis for identifying crystal systems using multiview opinion fusion machine learning <a href="https://openreview.net/forum?id=L6AJmCkfNe">[Paper]</a> <a href="https://nips.cc/virtual/2023/78564">[Poster]</a></td>
       <td>NeurIPS <a href="https://sites.google.com/view/ai4mat/home">AI for Materials</a> Workshop</td>
       <td>New Orleans, LA, USA</td>
     </tr>
     <tr>
-      <th scope="row">Nov, 2022</th>
+      <td>Nov, 2022</td>
       <td>Entropy-targeted active learning for materials data bias mitigation <a href="/assets/pdf/chimad_2022_poster.pdf">[Poster]</a> <a href="/assets/pdf/chimad_2022_slides.pdf">[Spotlight]</a></td>
       <td><a href="https://chimad.northwestern.edu/">CHiMaD</a> Annual Meeting</td>
       <td>Chicago, IL, USA</td>
     </tr>
     <tr>
-      <th scope="row">Oct, 2020</th>
+      <td>Oct, 2020</td>
       <td>Autonomous phase diagram construction guided by active learning <a href="/assets/pdf/fmge_poster.pdf">[Poster]</a></td>
       <td>Forum of Materials Genome Engineering</td>
       <td>Mianyang, China</td>
     </tr>
     <tr>
-      <th scope="row">Nov, 2019</th>
+      <td>Nov, 2019</td>
       <td>Kinetics of phase distribution and phase separation of Cu–Cr–Co combinatorial multilayered thin films</td>
       <td>Forum of Materials Genome Engineering</td>
       <td>Kunming, China</td>

@@ -1,0 +1,4 @@
+In "_sass/_base.scss": added "Education" section.
+In "_sass/_base.scss": changed font for "more-info".
+In "_includes/cv/nested_list.html": changed style for "content.title".
+In "_layouts/bib.liquid": removed space after author names.
