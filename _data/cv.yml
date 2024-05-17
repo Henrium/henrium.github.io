@@ -25,14 +25,15 @@
       institution: <a href="https://merl.com" style="color:inherit;">Mitsubishi Electric Research Laboratories</a>
       year: 2023
       description:
-        - Machine learning-based electric motor design and diagnosis.
+        - Machine learning-based electric motor design and fault diagnosis.
+        - Paper to be presented at International Conference on Electrical Machines.
 
 
 - title: Professional Services
   type: map
   contents:
     - name: Reviewer
-      value: NeurIPS AI4Mat Workshop, Neural Computing & Applications, MRS Advances, ISA Transactions, ICEM, IDETC
+      value: Neural Computing & Applications, MRS Advances, ISA Transactions, Journal of Open Source Software; NeurIPS AI4Mat Workshop, ICEM, IDETC-CIE
 
 
 - title: Outreach
