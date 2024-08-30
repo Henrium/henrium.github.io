@@ -33,7 +33,7 @@
   type: map
   contents:
     - name: Reviewer
-      value: Neural Computing & Applications, MRS Advances, ISA Transactions, Journal of Open Source Software; NeurIPS, IDETC-CIE, AI4Mat Workshop, ICEM
+      value: Neural Computing & Applications, MRS Advances, ISA Transactions, MethodsX, Journal of Open Source Software; NeurIPS, ICLR, IDETC-CIE, AI4Mat Workshop, ICEM
 
 
 - title: Outreach
