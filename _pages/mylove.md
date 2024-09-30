@@ -2,6 +2,8 @@
 layout: page
 title: 🍅
 permalink: /mylove
+nav: true
+nav_order: 4
 ---
 
 <p>
