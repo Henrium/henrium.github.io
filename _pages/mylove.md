@@ -11,11 +11,15 @@ nav_order: 4
 在26岁再相逢
 </p>
 
-<img src="assets/img/2011.jpg" alt="None" width="500">
+<img src="assets/img/rr/2011.webp" width="500">
 
 <p>
 一起度过了整个青春<br>
 我们也要陪伴往后余生
 </p>
 
-<img src="assets/img/2015.jpg" alt="None" width="500">
+<table><tr>
+<td><img src="assets/img/rr/24-1.webp" border=0 width="200"></td>
+<td><img src="assets/img/rr/24-2.webp" border=0 width="200"></td>
+<td><img src="assets/img/rr/24-3.webp" border=0 width="200"></td>
+</tr></table>
