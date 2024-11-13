@@ -82,13 +82,13 @@ nav_order: 3
   <tbody>
     <tr>
       <td>Dec, 2024</td>
-      <td>Graph representation of local environments for learning high-entropy alloy properties</td>
+      <td>Do graph neural networks work for high-entropy alloys? <a href="https://openreview.net/forum?id=qGz1A5w6FT">[Paper]</a> <a href="https://neurips.cc/virtual/2024/103729">[Poster]</a></td>
       <td>NeurIPS <a href="https://sites.google.com/view/ai4mat/home">AI for Materials</a> Workshop</td>
       <td>Vancouver, BC, Canada</td>
     </tr>
     <tr>
       <td>Jul, 2024</td>
-      <td>Chemistry-aware graph neural network for learning molecular mixture properties <a href="/assets/pdf/molsets_postrer.pdf">[PDF]</a></td>
+      <td>Chemistry-aware graph neural network for learning molecular mixture properties <a href="/assets/pdf/molsets_poster.pdf">[PDF]</a></td>
       <td>NIST <a href="https://www.nist.gov/news-events/events/2024/07/2024-artificial-intelligence-materials-science-aims-workshop">AIMS</a> Workshop</td>
       <td>Rockville, MD, USA</td>
     </tr>
