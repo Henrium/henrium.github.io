@@ -88,19 +88,19 @@ nav_order: 3
     </tr>
     <tr>
       <td>Jul, 2024</td>
-      <td>Chemistry-aware graph neural network for learning molecular mixture properties <a href="/assets/pdf/molsets_poster.pdf">[PDF]</a></td>
+      <td>Chemistry-aware graph neural network for learning molecular mixture properties <a href="/assets/pdf/molsets_poster.pdf">[Poster]</a></td>
       <td>NIST <a href="https://www.nist.gov/news-events/events/2024/07/2024-artificial-intelligence-materials-science-aims-workshop">AIMS</a> Workshop</td>
       <td>Rockville, MD, USA</td>
     </tr>
     <tr>
       <td>Dec, 2023</td>
-      <td>Mitigating bias in scientific data: a materials science case study <a href="https://openreview.net/forum?id=PfpbWuC0Yk">[Paper]</a> <a href="https://nips.cc/virtual/2023/75754">[Poster]</a></td>
+      <td>Mitigating bias in scientific data: a materials science case study <a href="https://openreview.net/forum?id=PfpbWuC0Yk">[Paper]</a> <a href="https://neurips.cc/virtual/2023/75754">[Poster]</a></td>
       <td>NeurIPS <a href="https://ai4sciencecommunity.github.io/neurips23.html">AI for Science</a> Workshop</td>
       <td>New Orleans, LA, USA</td>
     </tr>
     <tr>
       <td>Dec, 2023</td>
-      <td>Automated diffraction pattern analysis for identifying crystal systems using multiview opinion fusion machine learning <a href="https://openreview.net/forum?id=L6AJmCkfNe">[Paper]</a> <a href="https://nips.cc/virtual/2023/78564">[Poster]</a></td>
+      <td>Automated diffraction pattern analysis for identifying crystal systems using multiview opinion fusion machine learning <a href="https://openreview.net/forum?id=L6AJmCkfNe">[Paper]</a> <a href="https://neurips.cc/virtual/2023/78564">[Poster]</a></td>
       <td>NeurIPS <a href="https://sites.google.com/view/ai4mat/home">AI for Materials</a> Workshop</td>
       <td>New Orleans, LA, USA</td>
     </tr>
