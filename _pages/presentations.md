@@ -29,6 +29,12 @@ nav_order: 3
   <tbody>
     <tr>
       <td>Apr, 2025</td>
+      <td> Data-centric design of combinatorial materials systems </td>
+      <td><a href="https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-spring-meeting/"> MRS </a>Spring Meeting</td>
+      <td>Seattle, WA, USA</td>
+    </tr>
+    <tr>
+      <td>Apr, 2025</td>
       <td> Investigating insulator–metal transitions in Ti<sub>2</sub>O<sub>3</sub>/MnTiO<sub>3</sub> superlattices </td>
       <td><a href="https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-spring-meeting/"> MRS </a>Spring Meeting</td>
       <td>Seattle, WA, USA</td>
