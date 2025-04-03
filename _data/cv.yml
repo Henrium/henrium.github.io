@@ -1,9 +1,9 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://searle.northwestern.edu/programs-services/programs/program-pages/mentored-discussions-of-teaching.html" style="color:inherit;">Mentored Discussions of Teaching</a>
-      institution: Searle Center for Advancing Learning and Teaching
-      year: 2024
+    - title: <a href="https://cirtl.net/learning-outcomes/" style="color:inherit;">CIRTL Associate</a>
+      institution: <a href="https://searle.northwestern.edu/" style="color:inherit;">Searle Center for Advancing Learning and Teaching</a>
+      year: 2025
 
     - title: <a href="https://www.mccormick.northwestern.edu/materials-science/academics/courses/descriptions/358.html" style="color:inherit;">Modeling and Simulation in Materials Science</a>
       institution: Teaching Assistant, Northwestern (MSE 358)
@@ -32,7 +32,9 @@
   type: map
   contents:
     - name: Reviewer
-      value: Machine Learning Science and Technology, Neural Computing & Applications, MRS Advances, ISA Transactions, MethodsX, Journal of Open Source Software; NeurIPS (top reviewer), ICLR, ICML, IDETC-CIE, AI4Mat Workshop, ICEM
+      value: Machine Learning Science and Technology, European Physical Journal B, Neural Computing & Applications, MRS Advances, ISA Transactions, MethodsX, Journal of Open Source Software; NeurIPS (top reviewer), ICLR, ICML, IDETC-CIE, AI4Mat Workshop, ICEM
+    - name: Assistant
+      value: 2025 MRS Spring Meeting symposium assistant
 
 
 - title: Outreach
