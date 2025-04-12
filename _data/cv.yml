@@ -40,10 +40,14 @@
 - title: Outreach
   type: nested_list
   contents:
-    - title: <a href="https://www.nico.northwestern.edu/news-events/nico-reading-group.html" style="color:inherit;">NICO Reading Group</a>
+    - title: Co-Organizer, <a href="https://www.nico.northwestern.edu/news-events/nico-reading-group.html" style="color:inherit;">NICO Reading Group</a>
       items:
         - Organize discussions on fundamental and state-of-the-art AI methods with applications in various domains.
         - Participated by students and scholars from university, community college, and industry.
-    - title: <a href="https://bcse.northwestern.edu/standalonePage/baxter_symposium" style="color:inherit;">Baxter Center for Science Education</a>
+    - title: Volunteer, <a href="https://www.iinano.org/education/scoutnanoday/" style="color:inherit;">All Scout Nano Day</a>
       items:
-        - Volunteer at a symposium for middle/high school teachers from the Chicago region to explore cutting-edge science activities.
+        - A program for kids and parents to visit Northwestern’s campus to delve into the exciting field of nanotechnology.
+
+    - title: Volunteer, <a href="https://bcse.northwestern.edu/standalonePage/baxter_symposium" style="color:inherit;">Baxter Center for Science Education</a>
+      items:
+        - A symposium for middle/high school teachers from the Chicago region to explore cutting-edge science activities.

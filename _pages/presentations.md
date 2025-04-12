@@ -60,7 +60,7 @@ nav_order: 3
     <tr>
       <td>Apr, 2023</td>
       <td> ET-AL: Entropy-targeted active learning for materials data bias mitigation <a href="/assets/pdf/MRS_2023.pdf">[Slides]</a> </td>
-      <td><a href="https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting">MRS</a> Spring Meeting</td>
+      <td><a href="https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/2023-mrs-spring-meeting">MRS</a> Spring Meeting</td>
       <td>San Francisco, CA, USA</td>
     </tr>
     <tr>
