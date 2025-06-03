@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 Greetings! I am a PhD candidate and Ryan Fellow at [Northwestern](https://www.mccormick.northwestern.edu/) working with Profs. [Wei Chen](https://ideal.mech.northwestern.edu/) and [James Rondinelli](https://mtd.mccormick.northwestern.edu/). I have a broad interest in AI for science, with a focus on materials design.
 
-Before starting graduate school, I earned my BS in Materials Science and Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). As an undergraduate researcher, I worked in [MaGIC](https://magic.sjtu.edu.cn/) at SJTU, where I developed informatics tools for high-throughput experiments. I was a summer research intern at [Oxford](https://interface.materials.ox.ac.uk/) (2018), Northwestern (2019), and [MERL](https://www.merl.com/) (2023).
+Before starting graduate school, I earned my BS in Materials Science and Computer Science from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). As an undergraduate researcher, I worked in [MaGIC](https://magic.sjtu.edu.cn/) at SJTU, where I developed informatics tools for high-throughput experiments. I was a summer research intern at [Oxford](https://www.materials.ox.ac.uk/) (2018), Northwestern (2019), and [MERL](https://www.merl.com/) (2023).
 
 <div class="education">
 <h2>Education</h2>
