@@ -29,7 +29,7 @@ nav_order: 3
   <tbody>
     <tr>
       <td>Apr, 2025</td>
-      <td> Data-centric design of combinatorial materials systems </td>
+      <td> Data-centric design of combinatorial materials systems <a href="/assets/pdf/MRS_GSA_2025.pdf">[Slides]</a> </td>
       <td><a href="https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-spring-meeting/"> MRS </a>Spring Meeting</td>
       <td>Seattle, WA, USA</td>
     </tr>

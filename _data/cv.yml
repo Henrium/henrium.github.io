@@ -9,9 +9,8 @@
       institution: Teaching Assistant, Northwestern (MSE 358)
       year: 2023
       description:
-        - Redesigned lab assignments in Jupyter Notebooks and <a href="https://wiki.fysik.dtu.dk/ase/index.html">ASE</a>.
-        - Delivered lectures on materials informatics and machine learning.
-        - Held tutorials on Python, Linux, and high-performance computing.
+        - Hosted lectures on materials informatics and high-performance computing.
+        - Redesigned lab assignments in Jupyter and <a href="https://wiki.fysik.dtu.dk/ase/index.html">ASE</a>.
 
     - title: Probability and Statistics
       institution: Peer Mentor, SJTU (MATH 119)
