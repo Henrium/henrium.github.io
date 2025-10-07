@@ -30,8 +30,8 @@
 - title: Professional Services
   type: map
   contents:
-    - name: Area Chair
-      value: NeurIPS AI for Science Workshop
+    - name: Chair
+      value: NeurIPS AI for Science workshop area chair
     - name: Reviewer
       value: Machine Learning Science and Technology, European Physical Journal, Neural Computing & Applications, MRS Advances, ISA Transactions, MethodsX, Journal of Open Source Software; NeurIPS (top reviewer), ICLR, ICML, AAAI, IDETC-CIE, AI4Mat Workshop, ICEM
     - name: Assistant
