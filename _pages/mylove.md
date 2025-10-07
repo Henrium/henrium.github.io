@@ -18,8 +18,4 @@ nav_order: 4
 我们也要陪伴往后余生
 </p>
 
-<table><tr>
-<td><img src="assets/img/rr/24-1.webp" border=0 width="200"></td>
-<td><img src="assets/img/rr/24-2.webp" border=0 width="200"></td>
-<td><img src="assets/img/rr/24-3.webp" border=0 width="200"></td>
-</tr></table>
+<img src="assets/img/rr/2025.webp" width="500">
